@@ -10,3 +10,5 @@ print(bool(d))
 
 # file edit view navigate code refactor run tools vcs window hel
 
+
+print('ok!')
