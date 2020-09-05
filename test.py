@@ -1,14 +1,8 @@
-a = 83
-print(bin(a))
-
-print('Hello World!')
-
-d = set()
-
-print(bool(d))
-
-
-# file edit view navigate code refactor run tools vcs window hel
-
-
-print('ok!')
+j = 0
+while j < 9:
+    j += 1
+    i = 0
+    while i < j:
+        i += 1
+        print('*', end=' ')
+    print()
